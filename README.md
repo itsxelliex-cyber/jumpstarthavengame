@@ -26,6 +26,7 @@
         ·
         <a href="https://github.com/BudzioT/Godot_Super-Wakatime/issues/new">Report Bug / Request Feature</a>
     </p>
+    //THIS PROJECT IS FOR JUMPSTART HAVEN, ITS A PLATFORMER GAME I MADE IN ~1HR AND IS PUSHEEN THEMED, I PLAN ON UPDATING IT LATER. USE ARROWS TO JUMP AND GET TO THE END!
 </div>
 
 <!-- CONTENTS -->
@@ -53,6 +54,7 @@
 <!-- ABOUT -->
 ## About The Project
 <br />
+
 
 [![Product Screenshot][product-screenshot]](https://waka.hackclub.com)
 
